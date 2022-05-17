@@ -18,7 +18,7 @@ namespace CSharp
                 a += b * 2 + c - i;
             }
 
-            Console.WriteLine(DateTime.Now - start);
+            Console.WriteLine("RunTime = " + (DateTime.Now - start));
         }
     }
 }
