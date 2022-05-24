@@ -1,6 +1,5 @@
 using System;
 using System.Diagnostics;
-using System.Threading;
 namespace CSharp
 {
     class Program
@@ -8,17 +7,17 @@ namespace CSharp
 
         static void Main(string[] args)
         {
-            int a = 0;
-            int b = 2;
-            int c = 3;
+            long a = 0;
+            long b = 2;
+            long c = 3;
+            long iterations = 100000000l;
 
             DateTime start = DateTime.Now;
             
-            for (int i = 0; i <= 1000000001; i++) {
+            for (int i = 0; i <= iterations; i++) {
                 a += b * 2 + c - i;
             }
-
-            Console.WriteLine("RunTime = " + (DateTime.Now - start));
+            Console.WriteLine(DateTime.Now - start);
         }
     }
 }
