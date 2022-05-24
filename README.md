@@ -4,6 +4,6 @@
 # C++
 # ![CPP](https://user-images.githubusercontent.com/100800702/168817044-3fc27fa3-5cff-488c-a232-6dc2408016eb.jpg)
 # C#
-# ![csharp](https://user-images.githubusercontent.com/100800702/168817065-2fec4750-c291-4393-9ed6-2269f6785558.jpg)
+# ![cs](https://user-images.githubusercontent.com/100800702/170055371-28372a60-9342-42bf-8146-cf657a08ebc9.jpg)
 # Python
 # ![Python](https://user-images.githubusercontent.com/100800702/168817082-1d889902-1fbb-4442-802f-fadc01b58bea.jpg)
